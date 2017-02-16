@@ -1,3 +1,10 @@
+'''
+Convolution test.
+
+A test of convolution layer.
+
+Author: Xi Chen
+'''
 from __future__ import division
 from scipy import misc
 import matplotlib.pyplot as plt

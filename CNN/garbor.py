@@ -1,3 +1,10 @@
+'''
+Garbor Filter Test
+
+A test of Garbor Filter which is similar to 1st layer of CNN.
+
+Author: Xi Chen
+'''
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt

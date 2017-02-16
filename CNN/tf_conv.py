@@ -1,4 +1,9 @@
 '''
+A convolutional neural network (CNN) implementation example using TensorFlow library.
+
+This example is using the MNIST database of handwritten digits
+(http://yann.lecun.com/exdb/mnist/)
+
 Author: Tony Hong
 '''
 

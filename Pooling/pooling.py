@@ -1,3 +1,13 @@
+'''
+Pooling Test
+
+A test of max pooling and mean pooling.
+
+Author: 
+    Xi Chen
+    Tony Hong
+'''
+
 from __future__ import division
 from scipy import misc
 import matplotlib.pyplot as plt

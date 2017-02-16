@@ -4,6 +4,8 @@ This example is using the MNIST database of handwritten digits
 (http://yann.lecun.com/exdb/mnist/)
 
 Author: Aymeric Damien
+        Tony Hong (modified)
+
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
 '''
 

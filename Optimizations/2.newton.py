@@ -2,6 +2,8 @@
 This code is an example for one dimentional newton method
 
 Author: Dietrich Klakow based
+		Tony Hong (modified)
+
 '''
 #Project: https://repos.lsv.uni-saarland.de/dietrich/Neural_Networks_Implementation_and_Application/tree/master
 

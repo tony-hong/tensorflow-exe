@@ -1,4 +1,9 @@
 '''
+A Multilayer Perceptron implementation example
+
+This example is using the MNIST database of handwritten digits from Tensorflow
+(http://yann.lecun.com/exdb/mnist/)
+
 Author: Tony Hong
 '''
 
