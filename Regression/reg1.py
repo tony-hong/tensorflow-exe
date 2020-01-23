@@ -12,8 +12,8 @@ import matplotlib.pyplot as plt
 rng = numpy.random
 
 # Parameters
-learning_rate = 0.2
-training_epochs = 20000
+learning_rate = 0.5
+training_epochs = 100000
 display_step = 50
 
 # Training Data
